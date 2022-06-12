@@ -1,3 +1,8 @@
-- 👋 Hi, I’m @TheCoder76-Codes
-- 👀 I’m interested in Vanilla JavaScript apps and like to challange myself to make a app with only JavaScript and no libraries.
-- 📫 How to reach me: You can add me on Discord via TheCoder76#5046
+# Hello, I'm TheCoder76
+A learning coder who likes JavaScript more than anything else.
+
+## Projects
+No actively maintained projects at the moment.
+
+### Contact
+You can reach me through my Discord at `TheCoder76#5046`.
