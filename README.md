@@ -1,8 +1,7 @@
-# Hello, I'm TheCoder76
-A learning coder who likes JavaScript more than anything else.
+# 👋 Hello, I'm TheCoder76
+A student developer who likes JavaScript/Typescript.
 
-## Projects
-No actively maintained projects at the moment.
+## 💻 Projects
+I'm currently working on [Starterkana](https://starterkana.onrender.com/), a simple Japanese learning app for Hiragana/Katakana.
 
-### Contact
-You can reach me through my Discord at `TheCoder76#5046`.
+[![Discord Presence](https://lanyard.cnrad.dev/api/586111384551686144)](https://discord.com/users/586111384551686144)
