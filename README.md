@@ -1,4 +1,4 @@
-![profile](https://i.ibb.co/DD7Pcyk/Github.png)
+![profile](https://i.ibb.co/XSVHXWB/PFP-banner-small.png)
 # 👋 Hello, I'm TheCoder76
 A student developer who likes JavaScript/Typescript.
 
